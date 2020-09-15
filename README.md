@@ -1,4 +1,4 @@
-# Hyper X v2.0 // open source repo
+
 
 
 # Use at your own risk
